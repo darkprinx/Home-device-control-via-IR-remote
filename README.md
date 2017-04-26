@@ -6,7 +6,7 @@ Though the present generation has surpassed the efficiency bound of previous tec
 
 ## 2.Prerequisites
 
-** Hardware Equipment List:  
+* Hardware Equipment List:  
 
 1.	Arduino Uno microcontroller
 2.	IR remote
@@ -18,5 +18,3 @@ Though the present generation has surpassed the efficiency bound of previous tec
 8.	Breadboard 
 9.	Motor Fan
 
-
-* 
