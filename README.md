@@ -6,7 +6,7 @@ Though the present generation has surpassed the efficiency bound of previous tec
 
  ## Prerequisites
  
-Hardware Equipment List-
+*Hardware Equipment List
 
 1.	Arduino Uno microcontroller
 2.	IR remote
@@ -17,3 +17,7 @@ Hardware Equipment List-
 7.	Wires
 8.	Breadboard 
 9.	Motor Fan
+
+## Instalation
+
+* [Arduino Genuino](https://www.arduino.cc/en/main/software) - Arduino IDE software 
