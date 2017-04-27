@@ -9,15 +9,15 @@ Though the present generation has surpassed the efficiency bound of previous tec
  
 * ### Hardware Equipment List
 
- 1.	Arduino Uno microcontroller
- 2.	IR remote
- 3.	IR receiver 
- 4.	LED light
- 5.	Motor fan
- 6.	Motor controller
- 7.	Wires
- 8.	Breadboard 
- 9.	Motor Fan
+  1.	Arduino Uno microcontroller
+  2.	IR remote
+  3.	IR receiver 
+  4.	LED light
+  5.	Motor fan
+  6.	Motor controller
+  7.	Wires
+  8.	Breadboard 
+  9.	Motor Fan
 
 
 ## Instalation
