@@ -26,4 +26,4 @@ Though the present generation has surpassed the efficiency bound of previous tec
 
 * LED lights ON/OFF
 * Motor Fan ON/OFF
-* Motot Fan speed control
+* Motor Fan speed control
