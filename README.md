@@ -1,4 +1,5 @@
 # Home-device-control-via-IR-remote
+
 This a simple hardware project that controls household devices via an IR remote.For a sample use and clear understanding the project is made with 3 LED lights and 1 fan.
 
  ## Motivation
@@ -6,7 +7,7 @@ Though the present generation has surpassed the efficiency bound of previous tec
 
  ## Prerequisites
  
-* Hardware Equipment List
+* ### Hardware Equipment List
 
 1.	Arduino Uno microcontroller
 2.	IR remote
@@ -18,6 +19,13 @@ Though the present generation has surpassed the efficiency bound of previous tec
 8.	Breadboard 
 9.	Motor Fan
 
+
 ## Instalation
 
 * [Arduino Genuino](https://www.arduino.cc/en/main/software) - Arduino IDE software 
+
+## Usage
+
+* LED lights ON/OFF
+* Motor Fan ON/OFF
+* Motot Fan speed control
