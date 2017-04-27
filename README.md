@@ -7,8 +7,6 @@ Though the present generation has surpassed the efficiency bound of previous tec
 
  ## Prerequisites
  
-* ### Hardware Equipment List
-
   1.	Arduino Uno microcontroller
   2.	IR remote
   3.	IR receiver 
